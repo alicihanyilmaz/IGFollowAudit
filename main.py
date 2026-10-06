@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # --- SETTINGS ---
-TELEGRAM_TOKEN = "8835306685:AAExps6cw5NLfCTBV2BTvkIjWqcy79Xrjmk"
+TELEGRAM_TOKEN = "TELEGRAM_TOKEN"
 CHAT_ID = "Telegram_chat_id"
 TARGET_ACCOUNT = "Target_account"
 
